@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dejureapudfranc00desjgoog_0012.png"; bbox 0 0 2782 4868; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 426 1730 941 1837">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 426 1730 941 1837">
+     <span class='ocr_line' id='line_1_1' title="bbox 426 1730 941 1837; baseline -0.002 -17"><span class='ocrx_word' id='word_1_1' title='bbox 426 1732 555 1822; x_wconf 64' lang='lat' dir='ltr'><strong>mmo</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 578 1731 739 1824; x_wconf 63' lang='grc' dir='ltr'><strong>ΝΙῦθΙιΔθ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 765 1730 941 1837; x_wconf 69' lang='lat' dir='ltr'><strong>mum,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 229 1904 1001 1970">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 229 1904 1001 1970">
+     <span class='ocr_line' id='line_1_2' title="bbox 229 1904 1001 1970; baseline 0.012 -9"><span class='ocrx_word' id='word_1_4' title='bbox 229 1939 232 1944; x_wconf 97' lang='lat'>·</span> <span class='ocrx_word' id='word_1_5' title='bbox 366 1917 493 1963; x_wconf 74' lang='lat' dir='ltr'><strong>PRAESIDI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 529 1919 707 1965; x_wconf 71' lang='lat' dir='ltr'><strong>TRIBUNALIS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 741 1904 1001 1970; x_wconf 55' lang='lat' dir='ltr'><strong>Batonem&amp;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 221 2091 1140 2147">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 221 2091 1140 2147">
+     <span class='ocr_line' id='line_1_3' title="bbox 221 2091 1140 2147; baseline 0.003 -17"><span class='ocrx_word' id='word_1_8' title='bbox 221 2091 387 2132; x_wconf 76' lang='lat' dir='ltr'><strong>SANGIHNE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 416 2093 647 2147; x_wconf 77' lang='lat' dir='ltr'>CONJUNGTUS,</span> <span class='ocrx_word' id='word_1_10' title='bbox 677 2095 785 2135; x_wconf 78' lang='lat' dir='ltr'>ANIMO</span> <span class='ocrx_word' id='word_1_11' title='bbox 817 2092 1140 2145; x_wconf 65' lang='grc' dir='ltr'><strong>(ἸΟΝΙΠΝΟΤΙΒΕΙΜΙῘΒ,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 488 2239 877 2309">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 488 2239 877 2309">
+     <span class='ocr_line' id='line_1_4' title="bbox 488 2239 877 2309; baseline 0.003 -4"><span class='ocrx_word' id='word_1_12' title='bbox 488 2239 610 2309; x_wconf 63' lang='lat' dir='ltr'>&#39;Anum</span> <span class='ocrx_word' id='word_1_13' title='bbox 634 2244 877 2309; x_wconf 76' lang='lat' dir='ltr'><strong>DESJARDINS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1396 4868">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1396 4868">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1396 4868; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1396 4868; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
